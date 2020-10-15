@@ -33,7 +33,7 @@ truffle compile
 Test Contacts
 
 ```bash
-truffle compile
+truffle test
 ```
 
 Migrate Contract
